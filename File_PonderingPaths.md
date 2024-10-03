@@ -46,8 +46,9 @@ cat run is also not helping cant glean much information from it or maybe i misse
 
 ok i just didnt read the question clearly or missed what it meant, basically the issue with what i wrote above is that just ending the line at "~" just speicifed the directory but didnt actually write out my flag
 
-> /challenge/run ~/h
 i was supposed to do this simply (smh)
+> /challenge/run ~/h
+
 > Writing the file to /home/hacker/h!
 > ... and reading it back to you:
 > pwn.college{0mMe482ivgTb5hIh5dBWPM7vUdX.dNzM4QDL5EzN0czW}
