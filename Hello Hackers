@@ -1,0 +1,7 @@
+# Hello Hackers
+Learnt about what we see when the terminal is booted up and what each part of the shell line means. For eg: " hacker@dojo:~$ " this is a prompt and each segment of it means something.
+hacker = username
+dojo = hostname of the machine shell
+$ = an indicator that a user is running the terminal than the owner/admin
+
+## Intro to Commands
