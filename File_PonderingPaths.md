@@ -13,7 +13,7 @@ cd (change directories) =  shift b/w directories
 
 ## Position elsewhere
 
-> hacker@dojo:~$ = in this `~` is replaced by the cwd (current working directory) we are in and by cd we shift b/w directories
+hacker@dojo:~$ = in this `~` is replaced by the cwd (current working directory) we are in and by cd we shift b/w directories
 
 ## Position yet elsewhere
 
