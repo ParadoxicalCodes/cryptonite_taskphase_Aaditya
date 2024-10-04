@@ -65,7 +65,15 @@ find = cmd to find directories or files
 > ![image](https://github.com/user-attachments/assets/6e2d1ada-c7e0-4e1d-9cd3-5a45807dc73f)
 
 > why is the flag token behind the shell prompt? why is the output like that?
+
 > and is not possible to find by using a filter that distinguishes between a file and directory?
 
 # linking files
 
+file = cmd to tell filetype
+hard link = original file access path and this is same, you have to know where the file is
+soft link = it just contains the original file name, which when accessed will read out the file name and (typically) access the contents of the file (with a symlink you dont have to access the file from where it is instead bring it to someplace else and access from there)
+soft link or symbolic link or symlinks are all same
+> ln -s (original file path) (path_whereveryouwanttolinkitto)
+
+> 
