@@ -39,12 +39,13 @@ files that start "." are hidden, for them to show up just do "ls -a" to show all
 # An epic filesystem quest
 
 with the combination of commands cd, ls and cat im supposed to find a file hidden in some directory. i have reached the trapped hint part but how am i supposed to open it without destructing it? 
-> lets just try that cat trick first 
+> ~~~lets just try that cat trick first ~~~
 > the run file is not there, well ofc it wont be there so its most likely saved in that fuc directory as run what if i execute it without going into just fuc so as to avoid the too many arguments error?
 > 
 > ![img23](https://github.com/user-attachments/assets/f1836384-24fb-4f75-8325-cdc88bc2bbe4)
 >
-> i went two directories back that also didnt work should i just stay in /usr rather than cd ing into /opt ??
+> i went two directories back that also didnt work should i just stay in / rather than cd ing into /opt ??
+> got it got it now
 
 
 # making directories
