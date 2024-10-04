@@ -45,12 +45,27 @@ with the combination of commands cd, ls and cat im supposed to find a file hidde
 > ![img23](https://github.com/user-attachments/assets/f1836384-24fb-4f75-8325-cdc88bc2bbe4)
 >
 > i went two directories back that also didnt work should i just stay in / rather than cd ing into /opt ??
-> got it got it now ![image](https://github.com/user-attachments/assets/61c03967-dd91-49a4-9be8-7582f98718e0)
 
+got it got it now 
+![image](https://github.com/user-attachments/assets/61c03967-dd91-49a4-9be8-7582f98718e0)
 
+rest was easy to follow
 
 # making directories
 
+mkdir = command to create directories
+> made a mistake of doing mkdir college instead of touch college
+> mkdir will ONLY creat directories not files (to keep in mind!)
+
 # finding files
 
+find = cmd to find directories or files
+"-name" is a filter to narrow our search, if we leave "find" as is it will return **all** matching results
+
+> ![image](https://github.com/user-attachments/assets/6e2d1ada-c7e0-4e1d-9cd3-5a45807dc73f)
+
+> why is the flag token behind the shell prompt? why is the output like that?
+> and is not possible to find by using a filter that distinguishes between a file and directory?
+
 # linking files
+
