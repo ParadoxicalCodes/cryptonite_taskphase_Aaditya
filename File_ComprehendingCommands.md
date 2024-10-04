@@ -15,6 +15,7 @@ since we didnt know where the flag was located i wrote "cd /" so i could get cor
 # grepping for a needle in a haystack
 
 grep is like cat but more specific and is mainly used when the file we are reading has a lot of lines
+![img1](https://github.com/user-attachments/assets/c06fac02-4a84-4270-8c40-4174267473da)
 
 
 # listing files
