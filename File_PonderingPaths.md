@@ -15,6 +15,9 @@ cd (change directories) =  shift b/w directories
 
 hacker@dojo:~$ = in this `~` is replaced by the cwd (current working directory) we are in and by cd we shift b/w directories
 
+_also there is something i realised i can do. I can simply do cat run to get hints in solving the challenges. Won't always work but a thing to keep in mind when stuck. Discovered this while doing the "Getting started" dojo_
+_though cat flag wont help our case as the output is just permission denied which makes sense as we are still accessing the files as a user rather than an owner (in the prompt its still "$" rather than "#")_
+
 ## Position yet elsewhere
 
 also things defined by "/" is considered an absolute path
