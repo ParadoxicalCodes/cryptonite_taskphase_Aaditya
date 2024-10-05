@@ -64,9 +64,9 @@ find = cmd to find directories or files
 
 > ![image](https://github.com/user-attachments/assets/6e2d1ada-c7e0-4e1d-9cd3-5a45807dc73f)
 
-> why is the flag token behind the shell prompt? why is the output like that?
-
-> and is not possible to find by using a filter that distinguishes between a file and directory?
+_why is the flag token behind the shell prompt? why is the output like that?_
+answer later
+_and is not possible to find by using a filter that distinguishes between a file and directory?_
 
 # linking files
 
@@ -76,4 +76,4 @@ soft link = it just contains the original file name, which when accessed will re
 soft link or symbolic link or symlinks are all same
 > ln -s (original file path) (path_whereveryouwanttolinkitto)
 
-> 
+> this one took hours - issue simply was that i was linking the catflag to not-the-flag which was already linked, then next mistake was linking flag to not-the-flag but running /flag instead of /challenge/catflag and then getting confused.
