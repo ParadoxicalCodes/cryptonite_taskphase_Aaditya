@@ -29,6 +29,14 @@ man =  a command to open manual for a command we dont know
 just do man cmd_name we dont have to actually put the directory in which the cmd is just write the cmd name in the argument
 
 # Searching Manuals
+after the man command you can sift through the results using "/"
+also n = goes to next page
+N = goes to prev page of search results
+
 # Searching For Manuals
+man man = essentially a manual for the man command itself
+from this i found the "-K" argument which would let me find the a man page for the challenge
+-k, -apropos = searches the man page for the description or names i put in (a search modifier sort of)
+
 # Helpful Programs
 # Help for Builtins
