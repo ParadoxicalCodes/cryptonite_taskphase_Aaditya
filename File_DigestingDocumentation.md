@@ -39,4 +39,8 @@ from this i found the "-K" argument which would let me find the a man page for t
 -k, -apropos = searches the man page for the description or names i put in (a search modifier sort of)
 
 # Helpful Programs
+-h = alternative to man cmd
+
 # Help for Builtins
+builtin cmds are commands stored in shell rather as an executable program like man or -help
+an example of builtin cmd --> help
