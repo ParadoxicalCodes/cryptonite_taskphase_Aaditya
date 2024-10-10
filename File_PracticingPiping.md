@@ -95,3 +95,15 @@ this gave us
  also putting space after ">" changes the whole command output (think why)
 
 # Split-piping stderr and stdout
+
+im assuming we have to write everything into one command but what if i break it into pieces?
+nvm it directly shows permission denied so 1 whole cmd line
+
+a bit of trial and error
+![image](https://github.com/user-attachments/assets/846a6ea4-b04f-4285-a0ac-8087b540e475)
+
+im confused now how did the "()" make a difference ?
+> [!NOTE]
+> to self : revisit some modules
+
+
