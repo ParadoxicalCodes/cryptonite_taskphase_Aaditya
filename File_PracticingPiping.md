@@ -89,4 +89,5 @@ this gave us
 ![image](https://github.com/user-attachments/assets/7c73ac06-c5ed-4772-bab9-8776d3d8aab3)
 
 
+
 # Split-piping stderr and stdout
