@@ -46,6 +46,11 @@ very straightforward from here
 "|" only redirects our output to fd1, unlike ">" it cant flexibly give our outputs in other fd
 ">&" - this redirects from a fd to another fd
 
+![image](https://github.com/user-attachments/assets/527c51a7-df26-4e77-a212-a5589c206b87)
+
+did this to get a hint, was able to solve from here
+```/challenge/run 2>&1 | grep pwn```
+
 # Duplicating piped data with tee
 tee -  allows us to go through the outputs of our piped cmds for debugging
 
