@@ -24,8 +24,11 @@ FD 2 - stderr
 by default ">" without a number implies "1>"
 now to redirect errors,
 ```hacker@dojo:~$ /challenge/run 2> errors.log```
+
 this will stderr to errors.log file.
+
 Also one can redirect to multiple files
+
 ```hacker@dojo:~$ some_command > output.log 2> errors.log```
 
 # Redirecting input
