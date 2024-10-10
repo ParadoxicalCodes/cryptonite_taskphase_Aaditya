@@ -88,6 +88,10 @@ this gave us
 
 ![image](https://github.com/user-attachments/assets/7c73ac06-c5ed-4772-bab9-8776d3d8aab3)
 
+ ok i got it the issue is i am piping the outputs in 2 different processes instead i was supposed to do this
 
+ ```/challenge/hack | tee >/challenge/the >/challenge/planet```
+
+ also putting space after ">" changes the whole command output (think why)
 
 # Split-piping stderr and stdout
