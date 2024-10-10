@@ -106,4 +106,7 @@ im confused now how did the "()" make a difference ?
 > [!NOTE]
 > to self : revisit some modules
 
+![image](https://github.com/user-attachments/assets/c4ae0a16-bcf3-4b88-ac3b-7fad3baad4be)
+
+the brackets make all the difference im guessing without a bracket it reads everything as a file than a cmd maybe that causes an issue?
 
