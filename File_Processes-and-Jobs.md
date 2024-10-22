@@ -35,7 +35,9 @@ bg --> does the same as fg but resumes process in background which frees up the 
 
 Under the STAT columns
 S --> means the process is sleeping and since there is no "+" after it means its running in background
+
 T --> means the process is suspended
+
 R+ ---> means the process is actively running in the foreground
 
 # Foregrounding Processes
