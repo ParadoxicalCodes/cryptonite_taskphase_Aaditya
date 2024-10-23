@@ -24,4 +24,17 @@ the issue was arising when i did everything still didnt get flag. Then i realise
 
 
 # Hijacking commands
+## Thought Process
+### try1
+found where rm is (in /bin) saw its permissions and tried changing it to just read for all users
 
+![image](https://github.com/user-attachments/assets/b46c8782-d266-44fc-bee3-a502f5f788ca)
+
+### try2
+what if i did  rm rm
+
+does that work??   ---> answer is yes it would but we dont have the permissions, what if we tried to get the said permission?
+
+> ![image](https://github.com/user-attachments/assets/46451310-b61d-429c-b03f-762baabddd05)
+ 
+### try3
