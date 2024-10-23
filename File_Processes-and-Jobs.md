@@ -5,12 +5,15 @@ ps --> shows a list of processes running in the terminal at the moment the cmd w
 > we cant just use ps or else it will show "bash" and "ps" as the processes, hence some arguments are needed
 
 ps aux --> 'a' lists processes for all users, 'x' lists processes not running in terminal, 'u' gives output in "user readable format"
+
 ps -ef --> "-e" simply shows every process running and "f" gives output in 'full format'
 
 ![image](https://github.com/user-attachments/assets/b493b74e-2520-44f4-af8d-c0cacd4ae2ac)
 
 PID - Process ID, its a numerical identifier for each process
+
 TIME - shows total utilised CPU time
+
 # Killing Processes
 kill --> terminates a process in a way where it lets the process do proper procedure before terminating it
 
