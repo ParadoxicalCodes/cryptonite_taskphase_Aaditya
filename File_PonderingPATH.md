@@ -14,6 +14,13 @@ also echo $PATH allows us to look into what dirs are there already
 this is how you put a dir for a cmd to run (but as we can other dirs are gone isnt that an issue?)
 
 # Adding commands
+ok i tried the first option of given three
+
+found where cat command is stored (its in /bin) and kept that while changing the PATH variable
+
+the issue was arising when i did everything still didnt get flag. Then i realised the permissions werent there for win hence the errors
+
+![image](https://github.com/user-attachments/assets/8fbad911-6e7a-48e1-a0e8-1ce7c543c98e)
 
 
 # Hijacking commands
