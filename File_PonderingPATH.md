@@ -44,3 +44,8 @@ what if we create a blank rm of our own and remove the directory containing the 
 
 ok i understood something - the system goes through dirs in PATH in order so what if i put my rm before the actual one then run it?
 
+![image](https://github.com/user-attachments/assets/f3441e5b-bce9-45b3-a0cc-6ff71718ee33)
+
+this works finally
+
+
