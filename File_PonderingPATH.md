@@ -33,8 +33,14 @@ found where rm is (in /bin) saw its permissions and tried changing it to just re
 ### try2
 what if i did  rm rm
 
-does that work??   ---> answer is yes it would but we dont have the permissions, what if we tried to get the said permission?
+does that work??   ---> answer is yes it would but we dont have the permissions, what if we tried to get the said permission? (actually this is not possible too the whole operation is denied)
 
 > ![image](https://github.com/user-attachments/assets/46451310-b61d-429c-b03f-762baabddd05)
  
 ### try3
+what if we create a blank rm of our own and remove the directory containing the actual rm and then do /challenge/run   ?
+
+> that wont work because although we saved the flag from getting deleted it still cant be printed out
+
+ok i understood something - the system goes through dirs in PATH in order so what if i put my rm before the actual one then run it?
+
