@@ -33,7 +33,7 @@ env - prints out every exported variable set in the shell
 env is kind of like echo but just for exported variables
 
 # Storing command output
-cmd outputs can be stored into a variable with the help of "&()"
+cmd outputs can be stored into a variable with the help of "$()"
 >syntax
 >
 >![image](https://github.com/user-attachments/assets/50d3677a-5ace-4ae3-92cd-00a58323671a)
